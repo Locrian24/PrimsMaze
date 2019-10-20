@@ -5,7 +5,7 @@ Inspired from a [Computerphile video](https://www.youtube.com/watch?v=rop0W4QDOU
 
 ## In Practice
 
-![alt text](https://github.com/Locrian24/PrimsMaze/blob/master/primMaze.png "500x500 Prim Maze")
+![alt text](https://github.com/Locrian24/PrimsMaze/blob/master/PrimMaze.png "500x500 Prim Maze")
 
 This is the style of maze generated, with this 500x500 maze being generated in 9.2 seconds. Check out the Computerphile video's [repo](https://github.com/mikepound/mazesolving) to test out their awesome pathfinding alg on these Prim Mazes.
 
