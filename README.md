@@ -1,5 +1,5 @@
 # PrimsMaze
-Basic pixel maze generator using Prim's MAT Algorithm. 
+Basic pixel maze generator using Prim's MST Algorithm. 
 
 Inspired from a [Computerphile video](https://www.youtube.com/watch?v=rop0W4QDOUI) on Pathfinding Algorithms, I wanted to test the given code but couldn't find a good pixel maze generator that could also handle large maze-generation.
 
